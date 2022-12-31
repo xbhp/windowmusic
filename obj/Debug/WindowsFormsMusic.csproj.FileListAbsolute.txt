@@ -1,0 +1,16 @@
+E:\net\test7\WindowsFormsMusic\bin\Debug\WindowsFormsMusic.exe.config
+E:\net\test7\WindowsFormsMusic\bin\Debug\WindowsFormsMusic.exe
+E:\net\test7\WindowsFormsMusic\bin\Debug\WindowsFormsMusic.pdb
+E:\net\test7\WindowsFormsMusic\bin\Debug\Interop.WMPLib.dll
+E:\net\test7\WindowsFormsMusic\bin\Debug\AxInterop.WMPLib.dll
+E:\net\test7\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.csproj.AssemblyReference.cache
+E:\net\test7\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.csproj.SuggestedBindingRedirects.cache
+E:\net\test7\WindowsFormsMusic\obj\Debug\Interop.WMPLib.dll
+E:\net\test7\WindowsFormsMusic\obj\Debug\AxInterop.WMPLib.dll
+E:\net\test7\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.csproj.ResolveComReference.cache
+E:\net\test7\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.Form1.resources
+E:\net\test7\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.Properties.Resources.resources
+E:\net\test7\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.csproj.GenerateResource.cache
+E:\net\test7\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.csproj.CoreCompileInputs.cache
+E:\net\test7\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.exe
+E:\net\test7\WindowsFormsMusic\obj\Debug\WindowsFormsMusic.pdb
